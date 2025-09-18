@@ -1,4 +1,4 @@
-# Hi there, I'm Arxyanf 👋
+# Hi there, I'm Aryan 👋
 
 🚀 **Cloud & Fullstack Developer | Learner | Builder**
 
