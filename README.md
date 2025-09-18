@@ -12,9 +12,11 @@
 ---
 
 ## 📊 GitHub Stats  
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arxyanf&show_icons=true&theme=dark)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arxyanf&layout=compact&theme=dark)  
+![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arxyanf&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arxyanf&layout=compact&theme=tokyonight)
+ 
 
 ---
 
