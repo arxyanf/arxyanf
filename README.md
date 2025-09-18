@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Arxyanf 👋
 
-<!--
-**arxyanf/arxyanf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Cloud & Fullstack Developer | Learner | Builder**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+
+---
+
+## 📊 GitHub Stats
+![Arxyanf's GitHub stats](https://github-readme-stats.vercel.app/api?username=arxyanf&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arxyanf&layout=compact&theme=dark)
+
+---
+
+## 🏆 Achievements
+![trophy](https://github-profile-trophy.vercel.app/?username=arxyanf&theme=darkhub)
+
+---
+
+## 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
+[![Portfolio](https://img.shields.io/badge/Website-000?style=flat&logo=vercel)](https://YOUR-WEBSITE.com)
