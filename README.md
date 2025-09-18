@@ -4,10 +4,14 @@
 ---
 
 ## 🛠️ Skills
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![AWS](https://img.shields.io/badge/-AWS-333?style=flat&logo=amazon-aws)
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![S3](https://img.shields.io/badge/-S3-333?style=flat&logo=amazons3)
+![IAM](https://img.shields.io/badge/-IAM-333?style=flat&logo=amazon-aws)
+![EC2](https://img.shields.io/badge/-EC2-333?style=flat&logo=amazonec2)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ---
 
