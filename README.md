@@ -21,26 +21,12 @@
 ## 🚀 Featured projects
 > Replace `project-name` with your repo names (example links included)
 
-### MyCoolApp
-- 🔗 https://github.com/arxyanf/MyCoolApp  
-- Short: A cloud-first app that does X, Y and Z.  
-- Badges:
-  ![Language](https://img.shields.io/github/languages/top/arxyanf/MyCoolApp?style=flat)
-  ![Last Commit](https://img.shields.io/github/last-commit/arxyanf/MyCoolApp?style=flat)
-
 ### CloudNotes
 - 🔗 https://github.com/arxyanf/CloudNotes  
 - Short: Notes app deployed on AWS with CI/CD.  
 - Badges:
   ![Stars](https://img.shields.io/github/stars/arxyanf/CloudNotes?style=social)
   ![Issues](https://img.shields.io/github/issues/arxyanf/CloudNotes?style=flat)
-
-### DevTools
-- 🔗 https://github.com/arxyanf/DevTools  
-- Short: Small utilities to speed up development workflows.  
-- Badges:
-  ![Forks](https://img.shields.io/github/forks/arxyanf/DevTools?style=social)
-  ![License](https://img.shields.io/github/license/arxyanf/DevTools?style=flat)
 
 ---
 
@@ -52,7 +38,7 @@
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-vaishnav-programmer)  
 [![Portfolio](https://img.shields.io/badge/Website-000?style=flat&logo=vercel)](https://YOUR-WEBSITE.com)  
 ✉️ arxyanf (on GitHub) · feel free to DM for collabs
 
