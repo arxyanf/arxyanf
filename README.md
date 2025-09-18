@@ -41,11 +41,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aryan-vaishnav-programmer)  
 [![Portfolio](https://img.shields.io/badge/Website-000?style=flat&logo=vercel)](https://YOUR-WEBSITE.com)  
 ✉️ arxyanf (on GitHub) · feel free to DM for collabs
-
----
-
-## 📝 Notes (quick)
-- If you want a **dynamic stats card** (contributions, language chart) that *won’t* hit public API limits, I can help you either:
-  - **Deploy your own instance** of the stats generator (one-time setup on Vercel), or
-  - **Use a GitHub Action** to periodically generate a static SVG and commit it to your repo (then the README loads it as a plain image).
-- Tell me if you want either option and I’ll give exact steps and a ready-to-use action/template.
