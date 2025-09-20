@@ -24,6 +24,9 @@
 
 ### 📂 Featured Projects
 
+#### AI Image Generator – [GitHub](https://github.com/arxyanf/AI-Image-Generator)  
+Web app to generate AI-powered images from text prompts using FastAPI backend.
+
 #### Cloud Notes App – [GitHub](https://github.com/arxyanf/CloudNotes)  
 Web app using FastAPI + Jinja2 templates, styled with custom CSS and deployed on cloud.
 
@@ -32,9 +35,6 @@ CLI-based app simulating banking operations (create account, deposit, withdraw).
 
 #### Basic Calculator – [GitHub](https://github.com/arxyanf/Basic_Calculator_Python_Project)  
 A modular CLI calculator with input validation.
-
-#### AI Image Generator – [GitHub](https://github.com/arxyanf/AI-Image-Generator)  
-Web app to generate AI-powered images from text prompts using FastAPI backend.
 
 ---
 
