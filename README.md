@@ -49,7 +49,7 @@ A modular CLI calculator with input validation.
 ### 🤝 Connect with Me
 [LinkedIn](https://linkedin.com/in/arxyanf)  
 [GitHub](https://github.com/arxyanf)  
-Email: your.email@example.com  
+Email: vaishnavaryan0@gmail.com
 
 ---
 
