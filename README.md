@@ -3,40 +3,40 @@ Hi there, I'm Aryan 👋
 
 ---
 
-🛠️ **Skills**  
-Python, JavaScript (ES6+), HTML, CSS  
-AWS (EC2, S3, IAM), Azure basics, Kubernetes  
-FastAPI, Jinja2  
-Git/GitHub, Linux CLI, Postman, VS Code, Jupyter  
-Security (IAM, encryption), UI/UX with Figma  
+🛠️ Skills  
+Languages: Python, JavaScript (ES6+), HTML, CSS  
+Cloud: AWS (EC2, S3, IAM), Azure basics, Kubernetes (familiar)  
+Frameworks: FastAPI, Jinja2  
+Tools: Git/GitHub, Linux CLI, Postman, VS Code, Jupyter  
+Other: Security (IAM, encryption), UI/UX with Figma  
 
 ---
 
-📂 **Featured Projects**
+📂 Featured Projects  
 
 **Cloud Notes App** – [GitHub](https://github.com/arxyanf/CloudNotes)  
-A web app to create, edit, and save notes on the cloud.
+Web app using FastAPI + Jinja2 templates, styled with custom CSS and deployed on cloud.
 
 **Bank Management System** – [GitHub](https://github.com/arxyanf/BankManagementSystem)  
-CLI-based app to manage banking operations like deposits and withdrawals.
+CLI-based app simulating banking operations (create account, deposit, withdraw).
 
 **Basic Calculator** – [GitHub](https://github.com/arxyanf/Basic_Calculator_Python_Project)  
-Modular CLI calculator with input validation and basic operations.
+A modular CLI calculator with input validation.
 
 **AI Image Generator** – [GitHub](https://github.com/arxyanf/AI-Image-Generator)  
-Generate AI-powered images from text prompts using a web interface.
+Web app to generate AI-powered images from text prompts.
 
 ---
 
-🌐 **Portfolio Website**  
+🌐 Portfolio Website  
 [Portfolio](https://yourportfolio.com)
 
-📄 **Resume**  
+📄 Resume  
 [Resume](https://yourresume.com)
 
 ---
 
-🤝 **Connect with Me**  
+🤝 Connect with Me  
 [LinkedIn](https://linkedin.com/in/arxyanf)  
 [GitHub](https://github.com/arxyanf)  
 Email: your.email@example.com  
