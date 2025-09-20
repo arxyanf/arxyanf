@@ -39,10 +39,7 @@ A modular CLI calculator with input validation.
 ---
 
 ### 🌐 Portfolio Website
-[Portfolio](https://yourportfolio.com)
-
-### 📄 Resume
-[Resume](https://yourresume.com)
+[Portfolio](https://arxyanf.github.io/Portfolio/)
 
 ---
 
