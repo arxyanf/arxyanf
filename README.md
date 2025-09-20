@@ -9,7 +9,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
 
 **Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Basics-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Familiar-blue?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Lambda](https://img.shields.io/badge/AWS-Lambda-red?style=for-the-badge&logo=awslambda&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Familiar-blue?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 **Frameworks:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-Backend-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-Templating-red?style=for-the-badge)  
