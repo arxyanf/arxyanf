@@ -6,30 +6,19 @@
 ### 🛠️ Skills
 
 **Languages:**  
-![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3.13-blue?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white)  
 
 **Cloud:**  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-Basics-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Familiar-blue?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-Basics-blue?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-Familiar-blue?style=for-the-badge&logo=kubernetes&logoColor=white)  
 
 **Frameworks:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Jinja2](https://img.shields.io/badge/Jinja2-Templating-red?style=for-the-badge)  
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-brightgreen?style=for-the-badge&logo=fastapi&logoColor=white) ![Jinja2](https://img.shields.io/badge/Jinja2-Templating-red?style=for-the-badge)  
 
 **Tools:**  
-![Git](https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-CLI-black?style=for-the-badge&logo=linux&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-CLI-black?style=for-the-badge&logo=linux&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-API-orange?style=for-the-badge&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 **Other:**  
-![Security](https://img.shields.io/badge/Security-IAM-red?style=for-the-badge)  
-![Figma](https://img.shields.io/badge/Figma-UI%2FUX-pink?style=for-the-badge&logo=figma&logoColor=white)  
+![Security](https://img.shields.io/badge/Security-IAM-red?style=for-the-badge) ![Figma](https://img.shields.io/badge/Figma-UI%2FUX-pink?style=for-the-badge&logo=figma&logoColor=white)  
 
 ---
 
